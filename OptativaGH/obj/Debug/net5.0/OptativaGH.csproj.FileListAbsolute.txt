@@ -1,0 +1,16 @@
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.exe
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.deps.json
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.runtimeconfig.json
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.runtimeconfig.dev.json
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.dll
+D:\POO0121\OptativaGH\bin\Debug\net5.0\ref\OptativaGH.dll
+D:\POO0121\OptativaGH\bin\Debug\net5.0\OptativaGH.pdb
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.csprojAssemblyReference.cache
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.AssemblyInfoInputs.cache
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.AssemblyInfo.cs
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.csproj.CoreCompileInputs.cache
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.dll
+D:\POO0121\OptativaGH\obj\Debug\net5.0\ref\OptativaGH.dll
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.pdb
+D:\POO0121\OptativaGH\obj\Debug\net5.0\OptativaGH.genruntimeconfig.cache
